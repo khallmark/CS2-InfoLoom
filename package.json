@@ -10,7 +10,7 @@
   "author": "Captain-of-Coit",
   "license": "MIT",
   "devDependencies": {
-    "esbuild": "^0.19.8",
+    "esbuild": "^0.25.0",
     "hookui-framework": "github:captain-of-coit/hookui-framework"
   }
 }
